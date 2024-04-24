@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+}
+
+.contenedor{
+    padding: 20px;
+    margin-top: 1%;
+    height: 70vh;
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+}
+.footer{
+   background-color: grey;
+display: flex;
+justify-content: space-between
+}
+
+
+
+
